@@ -1,0 +1,88 @@
+/* Global Button Spacing */
+.button, .input, .dropdown-trigger, .file {
+    margin-bottom: 1rem;
+}
+
+/* Dropdown Menu Icons for Better Usability */
+.dropdown-content a {
+    display: flex;
+    align-items: center;
+}
+
+.dropdown-content a .icon {
+    margin-right: 10px;
+}
+
+/* Button Hover and Click Effects */
+.button:hover {
+    background-color: #ff5722;
+    transition: background-color 0.3s ease;
+}
+
+.button:active {
+    transform: scale(0.98);
+    transition: transform 0.1s ease;
+}
+
+/* Improve Form Input Spacing */
+.input, .textarea {
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid #555;
+    transition: border-color 0.3s;
+}
+
+.input:focus, .textarea:focus {
+    border-color: #ff5722;
+    outline: none;
+}
+
+/* Dark Mode - Adjust contrast for better readability */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Dark Mode for Containers */
+#chatBox, #threeDContainer {
+    border: 2px solid #555;
+    background-color: #444;
+    color: #fff;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+}
+
+#threeDContainer {
+    border: 2px solid #444;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #333;
+}
+
+/* Modal Display */
+.modal {
+    display: none;
+}
+
+.modal.is-active {
+    display: flex;
+}
+
+/* Slider for Dark Mode Toggle */
+.slider {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+}
+
+.slider input[type="checkbox"] {
+    margin-left: 10px;
+    transform: scale(1.5);
+}

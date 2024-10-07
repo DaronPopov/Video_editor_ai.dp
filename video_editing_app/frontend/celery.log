@@ -1,0 +1,187 @@
+2024-10-07 06:12:00,464 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:12:00,464 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:12:00,465 - INFO -  * Restarting with stat
+2024-10-07 06:12:00,747 - WARNING -  * Debugger is active!
+2024-10-07 06:12:00,753 - INFO -  * Debugger PIN: 144-861-671
+2024-10-07 06:12:05,932 - INFO - 127.0.0.1 - - [07/Oct/2024 06:12:05] "GET / HTTP/1.1" 200 -
+2024-10-07 06:15:04,424 - INFO -  * Detected change in 'C:\\Users\\emo94\\deshuedit\\video_editing_app\\frontend\\app.py', reloading
+2024-10-07 06:15:04,459 - INFO -  * Restarting with stat
+2024-10-07 06:15:04,782 - WARNING -  * Debugger is active!
+2024-10-07 06:15:04,788 - INFO -  * Debugger PIN: 144-861-671
+2024-10-07 06:15:08,625 - INFO - 127.0.0.1 - - [07/Oct/2024 06:15:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:15:08,695 - INFO - 127.0.0.1 - - [07/Oct/2024 06:15:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:15:08,770 - INFO - 127.0.0.1 - - [07/Oct/2024 06:15:08] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-10-07 06:15:08,780 - INFO - 127.0.0.1 - - [07/Oct/2024 06:15:08] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-10-07 06:15:08,944 - INFO - 127.0.0.1 - - [07/Oct/2024 06:15:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-10-07 06:15:08,944 - INFO - 127.0.0.1 - - [07/Oct/2024 06:15:08] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=oWkvF8FZKgYtu6W3bfM0 HTTP/1.1" 200 -
+2024-10-07 06:15:09,322 - INFO - 127.0.0.1 - - [07/Oct/2024 06:15:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:17:09,749 - INFO - 127.0.0.1 - - [07/Oct/2024 06:17:09] "GET / HTTP/1.1" 200 -
+2024-10-07 06:17:11,099 - INFO - 127.0.0.1 - - [07/Oct/2024 06:17:11] "GET / HTTP/1.1" 200 -
+2024-10-07 06:19:19,454 - INFO -  * Detected change in 'C:\\Users\\emo94\\deshuedit\\video_editing_app\\frontend\\app.py', reloading
+2024-10-07 06:19:19,490 - INFO -  * Restarting with stat
+2024-10-07 06:19:19,821 - WARNING -  * Debugger is active!
+2024-10-07 06:19:19,828 - INFO -  * Debugger PIN: 144-861-671
+2024-10-07 06:19:23,117 - INFO - 127.0.0.1 - - [07/Oct/2024 06:19:23] "GET / HTTP/1.1" 200 -
+2024-10-07 06:19:23,809 - INFO - 127.0.0.1 - - [07/Oct/2024 06:19:23] "GET / HTTP/1.1" 200 -
+2024-10-07 06:19:23,966 - INFO - 127.0.0.1 - - [07/Oct/2024 06:19:23] "GET / HTTP/1.1" 200 -
+2024-10-07 06:19:24,114 - INFO - 127.0.0.1 - - [07/Oct/2024 06:19:24] "GET / HTTP/1.1" 200 -
+2024-10-07 06:19:27,808 - INFO - 127.0.0.1 - - [07/Oct/2024 06:19:27] "GET / HTTP/1.1" 200 -
+2024-10-07 06:19:32,480 - INFO - 127.0.0.1 - - [07/Oct/2024 06:19:32] "GET / HTTP/1.1" 200 -
+2024-10-07 06:19:59,834 - INFO - 127.0.0.1 - - [07/Oct/2024 06:19:59] "GET / HTTP/1.1" 200 -
+2024-10-07 06:20:29,817 - INFO - 127.0.0.1 - - [07/Oct/2024 06:20:29] "GET / HTTP/1.1" 200 -
+2024-10-07 06:21:36,750 - INFO -  * Detected change in 'C:\\Users\\emo94\\deshuedit\\video_editing_app\\frontend\\app.py', reloading
+2024-10-07 06:21:36,787 - INFO -  * Restarting with stat
+2024-10-07 06:21:37,085 - WARNING -  * Debugger is active!
+2024-10-07 06:21:37,091 - INFO -  * Debugger PIN: 144-861-671
+2024-10-07 06:21:47,010 - INFO - 127.0.0.1 - - [07/Oct/2024 06:21:47] "GET / HTTP/1.1" 200 -
+2024-10-07 06:25:22,149 - INFO -  * Detected change in 'C:\\Users\\emo94\\deshuedit\\video_editing_app\\frontend\\app.py', reloading
+2024-10-07 06:25:22,184 - INFO -  * Restarting with stat
+2024-10-07 06:25:22,527 - WARNING -  * Debugger is active!
+2024-10-07 06:25:22,534 - INFO -  * Debugger PIN: 144-861-671
+2024-10-07 06:25:28,515 - INFO - 127.0.0.1 - - [07/Oct/2024 06:25:28] "GET / HTTP/1.1" 200 -
+2024-10-07 06:29:44,084 - INFO -  * Detected change in 'C:\\Users\\emo94\\deshuedit\\video_editing_app\\frontend\\app.py', reloading
+2024-10-07 06:29:44,119 - INFO -  * Restarting with stat
+2024-10-07 06:29:44,444 - WARNING -  * Debugger is active!
+2024-10-07 06:29:44,450 - INFO -  * Debugger PIN: 144-861-671
+2024-10-07 06:29:47,565 - INFO - 127.0.0.1 - - [07/Oct/2024 06:29:47] "GET / HTTP/1.1" 200 -
+2024-10-07 06:33:04,135 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:33:04,136 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:33:04,138 - INFO -  * Restarting with stat
+2024-10-07 06:33:04,440 - WARNING -  * Debugger is active!
+2024-10-07 06:33:04,447 - INFO -  * Debugger PIN: 144-861-671
+2024-10-07 06:34:44,832 - INFO -  * Detected change in 'C:\\Users\\emo94\\deshuedit\\video_editing_app\\frontend\\app.py', reloading
+2024-10-07 06:34:44,863 - INFO -  * Restarting with stat
+2024-10-07 06:34:45,173 - WARNING -  * Debugger is active!
+2024-10-07 06:34:45,179 - INFO -  * Debugger PIN: 144-861-671
+2024-10-07 06:34:55,031 - INFO - 127.0.0.1 - - [07/Oct/2024 06:34:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:34:55,088 - INFO - 127.0.0.1 - - [07/Oct/2024 06:34:55] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-10-07 06:34:55,088 - INFO - 127.0.0.1 - - [07/Oct/2024 06:34:55] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-10-07 06:34:55,140 - INFO - 127.0.0.1 - - [07/Oct/2024 06:34:55] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1" 200 -
+2024-10-07 06:34:55,141 - INFO - 127.0.0.1 - - [07/Oct/2024 06:34:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-10-07 06:34:55,231 - INFO - 127.0.0.1 - - [07/Oct/2024 06:34:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:35:44,207 - INFO - 127.0.0.1 - - [07/Oct/2024 06:35:44] "GET / HTTP/1.1" 200 -
+2024-10-07 06:35:44,870 - INFO - 127.0.0.1 - - [07/Oct/2024 06:35:44] "GET / HTTP/1.1" 200 -
+2024-10-07 06:36:14,314 - INFO - 127.0.0.1 - - [07/Oct/2024 06:36:14] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:36:14,334 - INFO - 127.0.0.1 - - [07/Oct/2024 06:36:14] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:36:14,335 - INFO - 127.0.0.1 - - [07/Oct/2024 06:36:14] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:36:14,409 - INFO - 127.0.0.1 - - [07/Oct/2024 06:36:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:36:14,410 - INFO - 127.0.0.1 - - [07/Oct/2024 06:36:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:36:14,491 - INFO - 127.0.0.1 - - [07/Oct/2024 06:36:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:37:01,757 - INFO - 127.0.0.1 - - [07/Oct/2024 06:37:01] "GET / HTTP/1.1" 200 -
+2024-10-07 06:37:04,160 - INFO - 127.0.0.1 - - [07/Oct/2024 06:37:04] "GET / HTTP/1.1" 200 -
+2024-10-07 06:37:28,204 - INFO - 127.0.0.1 - - [07/Oct/2024 06:37:28] "GET / HTTP/1.1" 200 -
+2024-10-07 06:37:28,722 - INFO - 127.0.0.1 - - [07/Oct/2024 06:37:28] "GET / HTTP/1.1" 200 -
+2024-10-07 06:37:28,881 - INFO - 127.0.0.1 - - [07/Oct/2024 06:37:28] "GET / HTTP/1.1" 200 -
+2024-10-07 06:37:29,034 - INFO - 127.0.0.1 - - [07/Oct/2024 06:37:29] "GET / HTTP/1.1" 200 -
+2024-10-07 06:37:29,183 - INFO - 127.0.0.1 - - [07/Oct/2024 06:37:29] "GET / HTTP/1.1" 200 -
+2024-10-07 06:37:29,330 - INFO - 127.0.0.1 - - [07/Oct/2024 06:37:29] "GET / HTTP/1.1" 200 -
+2024-10-07 06:38:27,674 - INFO - 127.0.0.1 - - [07/Oct/2024 06:38:27] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:38:27,689 - INFO - 127.0.0.1 - - [07/Oct/2024 06:38:27] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:38:27,691 - INFO - 127.0.0.1 - - [07/Oct/2024 06:38:27] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:38:27,779 - INFO - 127.0.0.1 - - [07/Oct/2024 06:38:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:38:27,779 - INFO - 127.0.0.1 - - [07/Oct/2024 06:38:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:38:27,870 - INFO - 127.0.0.1 - - [07/Oct/2024 06:38:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:45,968 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:39:45,986 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:45] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:39:45,988 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:45] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:39:46,051 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:39:46,051 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:46,139 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:46,819 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:39:46,834 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:39:46,835 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:39:46,872 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:39:46,876 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:46,955 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:46,987 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:39:47,000 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,003 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,040 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,043 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,121 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,137 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:39:47,160 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,161 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,199 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,202 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,281 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,313 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:39:47,328 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,329 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,366 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,369 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,447 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,775 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:39:47,790 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,791 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,830 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,833 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:47,913 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:48,102 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:39:48,117 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:39:48,118 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:39:48,155 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:39:48,159 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:48,238 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:39:51,107 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:39:51,131 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:39:51,132 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:39:51,355 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:39:51,355 - INFO - 127.0.0.1 - - [07/Oct/2024 06:39:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:40:42,523 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:40:42,540 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:42] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:40:42,545 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:42] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:40:42,595 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:40:42,598 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:40:42,694 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:40:43,118 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:40:43,134 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:40:43,135 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:40:43,176 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:40:43,180 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:40:43,261 - INFO - 127.0.0.1 - - [07/Oct/2024 06:40:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,016 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:41:29,036 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,043 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,107 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,108 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,208 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,476 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:41:29,491 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,492 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,531 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,534 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,614 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,646 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:41:29,662 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,663 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,701 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,704 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,818 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:41:29,834 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,835 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,874 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,876 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:41:29,956 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:41:32,412 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:41:32,724 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:41:32,749 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:41:32,750 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:41:32,976 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:41:32,976 - INFO - 127.0.0.1 - - [07/Oct/2024 06:41:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:42:34,794 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:42:34,815 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:34] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:42:34,816 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:42:34,868 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:42:34,872 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:42:34,969 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:42:35,615 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-10-07 06:42:35,631 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:35] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-10-07 06:42:35,632 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:35] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-10-07 06:42:35,669 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:35] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=jmgGJiTcyZOu6aUaqG26 HTTP/1.1[0m" 304 -
+2024-10-07 06:42:35,672 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:35] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:42:35,754 - INFO - 127.0.0.1 - - [07/Oct/2024 06:42:35] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-10-07 06:43:12,085 - INFO -  * Detected change in 'C:\\Users\\emo94\\deshuedit\\video_editing_app\\app.py', reloading
+2024-10-07 06:43:12,115 - INFO -  * Restarting with stat

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Meta and Title -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>netartery - Video Editor</title>
+
+    <!-- Bulma CSS Framework -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/styles.css">
+
+    <!-- Three.js Library -->
+    <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/build/three.min.js"></script>
+
+    <!-- OrbitControls for Three.js -->
+    <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/controls/OrbitControls.js"></script>
+</head>
+
+<body class="light-mode">
+    <!-- Layout Split: Left for 3D Canvas, Right for Controls -->
+    <div class="columns" style="height: 100vh; margin: 0;">
+        <!-- 3D Rendering and Media Container -->
+        <div class="column is-9" id="threeDContainer" style="background-color: #333;"></div>
+
+        <!-- Controls and UI Elements -->
+        <div class="column is-3" style="background-color: #222; padding: 20px; color: white;">
+            <!-- Dark Mode Toggle -->
+            <div class="field">
+                <label class="checkbox">
+                    <input type="checkbox" id="darkModeToggle">
+                    Light Mode
+                </label>
+            </div>
+
+            <!-- Chat Box -->
+            <div class="field">
+                <div class="control">
+                    <input id="chatBox" class="input" type="text" placeholder="Type your message here...">
+                </div>
+            </div>
+
+            <!-- Upload Button -->
+            <div class="field">
+                <button class="button is-primary" id="showUploadForm">
+                    <i class="fas fa-upload"></i> Upload Media
+                </button>
+            </div>
+
+            <!-- Video Editing Controls -->
+            <div class="field">
+                <label class="label">Video Editing</label>
+                <div class="dropdown is-hoverable">
+                    <div class="dropdown-trigger">
+                        <button class="button is-light" aria-haspopup="true" aria-controls="dropdown-menu">
+                            <span>Edit Actions</span>
+                            <span class="icon is-small">
+                                <i class="fas fa-angle-down" aria-hidden="true"></i>
+                            </span>
+                        </button>
+                    </div>
+                    <div class="dropdown-menu" id="dropdown-menu" role="menu">
+                        <div class="dropdown-content">
+                            <a href="#" class="dropdown-item" id="resizeAction">Resize Video</a>
+                            <a href="#" class="dropdown-item" id="rotateAction">Rotate Video</a>
+                            <a href="#" class="dropdown-item" id="grayscaleAction">Convert to Grayscale</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Reset Canvas Button -->
+            <div class="field">
+                <button id="resetCanvasButton" class="button is-warning">Reset Canvas</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for File Upload -->
+    <div class="modal" id="uploadModal">
+        <div class="modal-background"></div>
+        <div class="modal-card">
+            <header class="modal-card-head">
+                <p class="modal-card-title">Upload Media</p>
+                <button class="delete" id="closeUploadModal"></button>
+            </header>
+            <section class="modal-card-body">
+                <form id="uploadMediaForm">
+                    <div class="file has-name is-boxed">
+                        <label class="file-label">
+                            <input class="file-input" type="file" id="mediaFileInput" accept="video/*, image/*">
+                            <span class="file-cta">
+                                <span class="file-icon"><i class="fas fa-upload"></i></span>
+                                <span class="file-label">Choose a file…</span>
+                            </span>
+                            <span class="file-name" id="fileName">No file selected</span>
+                        </label>
+                    </div>
+                    <button type="submit" class="button is-link is-fullwidth">Upload</button>
+                </form>
+            </section>
+        </div>
+    </div>
+
+    <!-- JavaScript Libraries and Custom Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Three.js Setup
+            const container = document.getElementById('threeDContainer');
+            const scene = new THREE.Scene();
+            const camera = new THREE.PerspectiveCamera(75, container.clientWidth / container.clientHeight, 0.1, 1000);
+            const renderer = new THREE.WebGLRenderer();
+            renderer.setSize(container.clientWidth, container.clientHeight);
+            container.appendChild(renderer.domElement);
+
+            const controls = new THREE.OrbitControls(camera, renderer.domElement);
+            camera.position.set(0, 0, 5);
+            controls.update();
+
+            // Render loop
+            function animate() {
+                requestAnimationFrame(animate);
+                controls.update();
+                renderer.render(scene, camera);
+            }
+            animate();
+
+            // Upload Modal and Media Handling
+            const uploadModal = document.getElementById('uploadModal');
+            const showUploadForm = document.getElementById('showUploadForm');
+            const closeUploadModal = document.getElementById('closeUploadModal');
+            const uploadMediaForm = document.getElementById('uploadMediaForm');
+            const mediaFileInput = document.getElementById('mediaFileInput');
+            const fileName = document.getElementById('fileName');
+
+            showUploadForm.addEventListener('click', () => {
+                uploadModal.classList.add('is-active');
+            });
+
+            closeUploadModal.addEventListener('click', () => {
+                uploadModal.classList.remove('is-active');
+            });
+
+            mediaFileInput.addEventListener('change', () => {
+                fileName.textContent = mediaFileInput.files[0] ? mediaFileInput.files[0].name : 'No file selected';
+            });
+
+            uploadMediaForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                const file = mediaFileInput.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = function (event) {
+                        const url = event.target.result;
+                        if (file.type.startsWith('image/')) {
+                            const texture = new THREE.TextureLoader().load(url);
+                            const material = new THREE.MeshBasicMaterial({ map: texture });
+                            const geometry = new THREE.PlaneGeometry(container.clientWidth / 100, container.clientHeight / 100);
+                            const imageMesh = new THREE.Mesh(geometry, material);
+                            imageMesh.position.set(0, 0, 0); // Render the image flat on the frame
+                            imageMesh.rotation.set(0, 0, 0); // Ensure it remains flat
+                            scene.add(imageMesh);
+                        } else if (file.type.startsWith('video/')) {
+                            const video = document.createElement('video');
+                            video.src = url;
+                            video.load();
+                            video.play();
+                            const texture = new THREE.VideoTexture(video);
+                            const material = new THREE.MeshBasicMaterial({ map: texture });
+                            const geometry = new THREE.PlaneGeometry(container.clientWidth / 100, container.clientHeight / 100);
+                            const videoMesh = new THREE.Mesh(geometry, material);
+                            videoMesh.position.set(0, 0, 0); // Render the video flat on the frame
+                            videoMesh.rotation.set(0, 0, 0); // Ensure it remains flat
+                            scene.add(videoMesh);
+                        }
+                    };
+                    reader.readAsDataURL(file);
+                    uploadModal.classList.remove('is-active');
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

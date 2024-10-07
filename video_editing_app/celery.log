@@ -1,0 +1,1047 @@
+2024-10-07 05:48:16,055 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.126:5000
+2024-10-07 05:48:16,055 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 05:48:16,058 - INFO -  * Restarting with stat
+2024-10-07 05:48:17,006 - WARNING -  * Debugger is active!
+2024-10-07 05:48:17,016 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 05:48:23,694 - INFO - 127.0.0.1 - - [07/Oct/2024 05:48:23] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-07 05:48:23,747 - INFO - 127.0.0.1 - - [07/Oct/2024 05:48:23] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-07 05:48:24,330 - INFO - 127.0.0.1 - - [07/Oct/2024 05:48:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-07 05:48:45,855 - INFO - 127.0.0.1 - - [07/Oct/2024 05:48:45] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-07 05:49:00,876 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.126:5000
+2024-10-07 05:49:00,876 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 05:49:00,877 - INFO -  * Restarting with stat
+2024-10-07 05:49:01,177 - WARNING -  * Debugger is active!
+2024-10-07 05:49:01,183 - INFO -  * Debugger PIN: 144-861-671
+2024-10-07 05:49:07,590 - INFO - 127.0.0.1 - - [07/Oct/2024 05:49:07] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-07 05:49:07,674 - INFO - 127.0.0.1 - - [07/Oct/2024 05:49:07] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-07 05:51:40,105 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.126:8080
+2024-10-07 05:51:40,105 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 05:51:40,106 - INFO -  * Restarting with stat
+2024-10-07 05:51:40,394 - WARNING -  * Debugger is active!
+2024-10-07 05:51:40,400 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 05:52:50,397 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 05:52:50,398 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 05:52:50,400 - INFO -  * Restarting with stat
+2024-10-07 05:52:51,254 - WARNING -  * Debugger is active!
+2024-10-07 05:52:51,262 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 05:53:00,131 - INFO - 127.0.0.1 - - [07/Oct/2024 05:53:00] "GET / HTTP/1.1" 200 -
+2024-10-07 05:54:00,454 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 05:54:00,454 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 05:54:00,456 - INFO -  * Restarting with stat
+2024-10-07 05:54:01,408 - WARNING -  * Debugger is active!
+2024-10-07 05:54:01,417 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 05:54:03,961 - INFO - 127.0.0.1 - - [07/Oct/2024 05:54:03] "GET / HTTP/1.1" 200 -
+2024-10-07 05:54:09,028 - INFO - 127.0.0.1 - - [07/Oct/2024 05:54:09] "[33mPOST /api/upload_media HTTP/1.1[0m" 404 -
+2024-10-07 05:54:09,610 - INFO - 127.0.0.1 - - [07/Oct/2024 05:54:09] "[33mPOST /api/upload_media HTTP/1.1[0m" 404 -
+2024-10-07 05:54:11,894 - INFO - 127.0.0.1 - - [07/Oct/2024 05:54:11] "[33mPOST /api/upload_media HTTP/1.1[0m" 404 -
+2024-10-07 05:55:12,686 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 05:55:12,687 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 05:55:12,689 - INFO -  * Restarting with stat
+2024-10-07 05:55:13,578 - WARNING -  * Debugger is active!
+2024-10-07 05:55:13,586 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 05:55:16,062 - INFO - 127.0.0.1 - - [07/Oct/2024 05:55:16] "GET / HTTP/1.1" 200 -
+2024-10-07 05:55:19,544 - INFO - File animated_book_zoom.mp4 uploaded successfully
+2024-10-07 05:55:19,545 - INFO - 127.0.0.1 - - [07/Oct/2024 05:55:19] "POST /api/upload_media HTTP/1.1" 200 -
+2024-10-07 05:55:23,576 - INFO - Edit media request received
+2024-10-07 05:55:23,585 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 05:55:27,780 - INFO - 127.0.0.1 - - [07/Oct/2024 05:55:27] "[35m[1mPOST /api/edit_media HTTP/1.1[0m" 500 -
+2024-10-07 05:56:31,707 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 05:56:31,707 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 05:56:31,710 - INFO -  * Restarting with stat
+2024-10-07 05:56:32,639 - WARNING -  * Debugger is active!
+2024-10-07 05:56:32,647 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 05:56:33,953 - INFO - 127.0.0.1 - - [07/Oct/2024 05:56:33] "GET / HTTP/1.1" 200 -
+2024-10-07 05:56:39,723 - INFO - File animated_forest_scene_with_water_movement.mp4 uploaded successfully
+2024-10-07 05:56:39,724 - INFO - 127.0.0.1 - - [07/Oct/2024 05:56:39] "POST /api/upload_media HTTP/1.1" 200 -
+2024-10-07 05:56:48,943 - INFO - Edit media request received
+2024-10-07 05:56:48,953 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 05:56:53,128 - INFO - 127.0.0.1 - - [07/Oct/2024 05:56:53] "[35m[1mPOST /api/edit_media HTTP/1.1[0m" 500 -
+2024-10-07 05:58:09,235 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 05:58:09,236 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 05:58:09,239 - INFO -  * Restarting with stat
+2024-10-07 05:58:10,221 - WARNING -  * Debugger is active!
+2024-10-07 05:58:10,228 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 05:58:23,105 - INFO - 127.0.0.1 - - [07/Oct/2024 05:58:23] "GET / HTTP/1.1" 200 -
+2024-10-07 05:58:28,012 - INFO - File animated_growing_balls.gif uploaded successfully
+2024-10-07 05:58:28,013 - INFO - 127.0.0.1 - - [07/Oct/2024 05:58:28] "POST /api/upload_media HTTP/1.1" 200 -
+2024-10-07 05:58:35,729 - INFO - Edit media request received
+2024-10-07 05:58:35,738 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 05:58:39,904 - INFO - 127.0.0.1 - - [07/Oct/2024 05:58:39] "[35m[1mPOST /api/edit_media HTTP/1.1[0m" 500 -
+2024-10-07 06:09:15,666 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:09:15,667 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:09:15,669 - INFO -  * Restarting with stat
+2024-10-07 06:09:16,638 - WARNING -  * Debugger is active!
+2024-10-07 06:09:16,646 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:09:18,189 - INFO - 127.0.0.1 - - [07/Oct/2024 06:09:18] "GET / HTTP/1.1" 200 -
+2024-10-07 06:09:20,508 - INFO - 127.0.0.1 - - [07/Oct/2024 06:09:20] "GET / HTTP/1.1" 200 -
+2024-10-07 06:10:24,376 - INFO - 127.0.0.1 - - [07/Oct/2024 06:10:24] "GET / HTTP/1.1" 200 -
+2024-10-07 06:15:05,015 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:15:05,016 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:15:05,018 - INFO -  * Restarting with stat
+2024-10-07 06:15:06,041 - WARNING -  * Debugger is active!
+2024-10-07 06:15:06,050 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:17:07,409 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:17:07,410 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:17:07,412 - INFO -  * Restarting with stat
+2024-10-07 06:17:08,310 - WARNING -  * Debugger is active!
+2024-10-07 06:17:08,318 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:19:20,864 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:19:20,864 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:19:20,867 - INFO -  * Restarting with stat
+2024-10-07 06:19:21,815 - WARNING -  * Debugger is active!
+2024-10-07 06:19:21,824 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:19:56,810 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:19:56,811 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:19:56,813 - INFO -  * Restarting with stat
+2024-10-07 06:19:57,681 - WARNING -  * Debugger is active!
+2024-10-07 06:19:57,689 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:21:37,707 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:21:37,708 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:21:37,710 - INFO -  * Restarting with stat
+2024-10-07 06:21:38,577 - WARNING -  * Debugger is active!
+2024-10-07 06:21:38,585 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:25:23,084 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:25:23,085 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:25:23,087 - INFO -  * Restarting with stat
+2024-10-07 06:25:24,000 - WARNING -  * Debugger is active!
+2024-10-07 06:25:24,008 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:29:44,875 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:29:44,875 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:29:44,878 - INFO -  * Restarting with stat
+2024-10-07 06:29:45,829 - WARNING -  * Debugger is active!
+2024-10-07 06:29:45,837 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:31:27,358 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:31:27,359 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:31:27,361 - INFO -  * Restarting with stat
+2024-10-07 06:31:28,345 - WARNING -  * Debugger is active!
+2024-10-07 06:31:28,353 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:34:48,108 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:34:48,108 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:34:48,111 - INFO -  * Restarting with stat
+2024-10-07 06:34:48,962 - WARNING -  * Debugger is active!
+2024-10-07 06:34:48,970 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:35:40,425 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:35:40,426 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:35:40,428 - INFO -  * Restarting with stat
+2024-10-07 06:35:41,287 - WARNING -  * Debugger is active!
+2024-10-07 06:35:41,294 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:36:12,030 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:36:12,031 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:36:12,033 - INFO -  * Restarting with stat
+2024-10-07 06:36:12,932 - WARNING -  * Debugger is active!
+2024-10-07 06:36:12,940 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:36:58,413 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:36:58,413 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:36:58,415 - INFO -  * Restarting with stat
+2024-10-07 06:36:59,343 - WARNING -  * Debugger is active!
+2024-10-07 06:36:59,351 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:37:25,459 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:37:25,459 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:37:25,462 - INFO -  * Restarting with stat
+2024-10-07 06:37:26,385 - WARNING -  * Debugger is active!
+2024-10-07 06:37:26,393 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:38:18,675 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:38:18,676 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:38:18,678 - INFO -  * Restarting with stat
+2024-10-07 06:38:19,578 - WARNING -  * Debugger is active!
+2024-10-07 06:38:19,585 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:39:43,060 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:39:43,060 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:39:43,063 - INFO -  * Restarting with stat
+2024-10-07 06:39:43,977 - WARNING -  * Debugger is active!
+2024-10-07 06:39:43,985 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:40:38,368 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:40:38,368 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:40:38,370 - INFO -  * Restarting with stat
+2024-10-07 06:40:39,271 - WARNING -  * Debugger is active!
+2024-10-07 06:40:39,279 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:41:26,737 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:41:26,738 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:41:26,740 - INFO -  * Restarting with stat
+2024-10-07 06:41:27,637 - WARNING -  * Debugger is active!
+2024-10-07 06:41:27,646 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:42:32,176 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:42:32,177 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:42:32,179 - INFO -  * Restarting with stat
+2024-10-07 06:42:33,261 - WARNING -  * Debugger is active!
+2024-10-07 06:42:33,269 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:43:13,162 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:43:13,163 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:43:13,165 - INFO -  * Restarting with stat
+2024-10-07 06:43:14,071 - WARNING -  * Debugger is active!
+2024-10-07 06:43:14,079 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:43:17,742 - INFO - 127.0.0.1 - - [07/Oct/2024 06:43:17] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-07 06:44:27,499 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:44:27,499 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:44:27,501 - INFO -  * Restarting with stat
+2024-10-07 06:44:28,368 - WARNING -  * Debugger is active!
+2024-10-07 06:44:28,375 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:44:32,560 - INFO - 127.0.0.1 - - [07/Oct/2024 06:44:32] "GET / HTTP/1.1" 200 -
+2024-10-07 06:47:21,054 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:47:21,055 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:47:21,057 - INFO -  * Restarting with stat
+2024-10-07 06:47:22,234 - WARNING -  * Debugger is active!
+2024-10-07 06:47:22,245 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:47:23,668 - INFO - 127.0.0.1 - - [07/Oct/2024 06:47:23] "GET / HTTP/1.1" 200 -
+2024-10-07 06:47:34,811 - INFO - 127.0.0.1 - - [07/Oct/2024 06:47:34] "[33mPOST /api/upload_media HTTP/1.1[0m" 404 -
+2024-10-07 06:48:14,371 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:48:14,372 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:48:14,374 - INFO -  * Restarting with stat
+2024-10-07 06:48:15,456 - WARNING -  * Debugger is active!
+2024-10-07 06:48:15,465 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:48:17,191 - INFO - 127.0.0.1 - - [07/Oct/2024 06:48:17] "GET / HTTP/1.1" 200 -
+2024-10-07 06:49:07,935 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:49:07,936 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:49:07,938 - INFO -  * Restarting with stat
+2024-10-07 06:49:08,875 - WARNING -  * Debugger is active!
+2024-10-07 06:49:08,883 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:49:10,177 - INFO - 127.0.0.1 - - [07/Oct/2024 06:49:10] "GET / HTTP/1.1" 200 -
+2024-10-07 06:49:10,192 - INFO - 127.0.0.1 - - [07/Oct/2024 06:49:10] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 06:49:28,861 - INFO - 127.0.0.1 - - [07/Oct/2024 06:49:28] "GET / HTTP/1.1" 200 -
+2024-10-07 06:49:28,877 - INFO - 127.0.0.1 - - [07/Oct/2024 06:49:28] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 06:58:49,492 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 06:58:49,493 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 06:58:49,495 - INFO -  * Restarting with stat
+2024-10-07 06:58:50,631 - WARNING -  * Debugger is active!
+2024-10-07 06:58:50,640 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 06:58:52,543 - INFO - 127.0.0.1 - - [07/Oct/2024 06:58:52] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-07 06:58:54,300 - INFO - 127.0.0.1 - - [07/Oct/2024 06:58:54] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-07 06:59:00,023 - INFO - 127.0.0.1 - - [07/Oct/2024 06:59:00] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-07 07:01:27,456 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:01:27,457 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:01:27,459 - INFO -  * Restarting with stat
+2024-10-07 07:01:28,382 - WARNING -  * Debugger is active!
+2024-10-07 07:01:28,391 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:01:31,329 - INFO - 127.0.0.1 - - [07/Oct/2024 07:01:31] "GET / HTTP/1.1" 200 -
+2024-10-07 07:01:31,351 - INFO - 127.0.0.1 - - [07/Oct/2024 07:01:31] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:01:34,603 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 07:01:42,786 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:01:44,877 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:01:46,802 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:01:47,091 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:01:48,907 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:01:51,145 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:01:51,819 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:01:53,922 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:01:56,184 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:01:56,838 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:01:58,927 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:02:01,210 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:02:01,853 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:02:03,953 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:02:06,228 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:02:06,870 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:02:08,986 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:02:11,254 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:02:11,894 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:02:14,004 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:02:16,271 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:02:16,903 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:02:19,035 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:02:21,300 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:02:21,920 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:02:24,062 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:02:26,334 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:02:26,938 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:02:29,089 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:02:31,342 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:02:31,946 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:02:34,108 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:02:36,347 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:02:36,979 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:02:39,124 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:02:41,363 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:02:41,991 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:04:01,095 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:04:01,095 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:04:01,098 - INFO -  * Restarting with stat
+2024-10-07 07:04:02,049 - WARNING -  * Debugger is active!
+2024-10-07 07:04:02,057 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:04:03,832 - INFO - 127.0.0.1 - - [07/Oct/2024 07:04:03] "GET / HTTP/1.1" 200 -
+2024-10-07 07:04:03,852 - INFO - 127.0.0.1 - - [07/Oct/2024 07:04:03] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:04:08,708 - INFO - 127.0.0.1 - - [07/Oct/2024 07:04:08] "GET / HTTP/1.1" 200 -
+2024-10-07 07:04:08,723 - INFO - 127.0.0.1 - - [07/Oct/2024 07:04:08] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:04:12,037 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 07:04:20,189 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:04:21,325 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:04:21,458 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:04:21,596 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:04:21,746 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:04:21,919 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:04:24,242 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:04:25,352 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:04:25,481 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:04:25,628 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:04:25,773 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:04:25,947 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:04:29,267 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:04:30,376 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:04:30,505 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:04:30,778 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:04:30,812 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:04:30,987 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:04:34,292 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:04:35,402 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:04:35,531 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:04:35,806 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:04:35,838 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:04:36,013 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:04:39,298 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:04:40,430 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:04:40,557 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:04:40,821 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:04:40,863 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:04:41,027 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:04:44,306 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:04:45,448 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:04:45,586 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:04:45,840 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:04:45,888 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:04:46,054 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:04:49,335 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:04:50,478 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:04:50,614 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:04:50,864 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:04:50,927 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:04:51,074 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:04:54,338 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:04:55,496 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:04:55,631 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:04:55,896 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:04:55,955 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:04:56,091 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:04:59,364 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:05:00,521 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:05:00,658 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:05:00,924 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:05:00,972 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:05:01,118 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:05:04,378 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:05:05,555 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:05:05,687 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:05:05,944 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:05:05,988 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:05:06,147 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:05:09,394 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:05:10,596 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:05:10,700 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:05:10,957 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:05:11,002 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:05:11,173 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:05:14,410 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:05:15,623 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:05:15,735 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:05:15,976 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:05:16,009 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:05:16,199 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:05:19,419 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:05:20,639 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:05:20,752 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:05:20,992 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:05:21,025 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:05:21,207 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:05:24,423 - ERROR - Connection to Redis lost: Retry (13/20) in 1.00 second.
+2024-10-07 07:05:25,668 - ERROR - Connection to Redis lost: Retry (13/20) in 1.00 second.
+2024-10-07 07:05:25,777 - ERROR - Connection to Redis lost: Retry (13/20) in 1.00 second.
+2024-10-07 07:05:25,997 - ERROR - Connection to Redis lost: Retry (13/20) in 1.00 second.
+2024-10-07 07:05:26,035 - ERROR - Connection to Redis lost: Retry (13/20) in 1.00 second.
+2024-10-07 07:05:26,234 - ERROR - Connection to Redis lost: Retry (13/20) in 1.00 second.
+2024-10-07 07:05:29,453 - ERROR - Connection to Redis lost: Retry (14/20) in 1.00 second.
+2024-10-07 07:05:30,682 - ERROR - Connection to Redis lost: Retry (14/20) in 1.00 second.
+2024-10-07 07:05:30,792 - ERROR - Connection to Redis lost: Retry (14/20) in 1.00 second.
+2024-10-07 07:05:31,010 - ERROR - Connection to Redis lost: Retry (14/20) in 1.00 second.
+2024-10-07 07:05:31,061 - ERROR - Connection to Redis lost: Retry (14/20) in 1.00 second.
+2024-10-07 07:05:31,242 - ERROR - Connection to Redis lost: Retry (14/20) in 1.00 second.
+2024-10-07 07:05:34,480 - ERROR - Connection to Redis lost: Retry (15/20) in 1.00 second.
+2024-10-07 07:05:35,698 - ERROR - Connection to Redis lost: Retry (15/20) in 1.00 second.
+2024-10-07 07:05:35,799 - ERROR - Connection to Redis lost: Retry (15/20) in 1.00 second.
+2024-10-07 07:05:36,037 - ERROR - Connection to Redis lost: Retry (15/20) in 1.00 second.
+2024-10-07 07:05:36,074 - ERROR - Connection to Redis lost: Retry (15/20) in 1.00 second.
+2024-10-07 07:05:36,269 - ERROR - Connection to Redis lost: Retry (15/20) in 1.00 second.
+2024-10-07 07:05:39,498 - ERROR - Connection to Redis lost: Retry (16/20) in 1.00 second.
+2024-10-07 07:05:40,702 - ERROR - Connection to Redis lost: Retry (16/20) in 1.00 second.
+2024-10-07 07:05:40,820 - ERROR - Connection to Redis lost: Retry (16/20) in 1.00 second.
+2024-10-07 07:05:41,053 - ERROR - Connection to Redis lost: Retry (16/20) in 1.00 second.
+2024-10-07 07:05:41,090 - ERROR - Connection to Redis lost: Retry (16/20) in 1.00 second.
+2024-10-07 07:05:41,276 - ERROR - Connection to Redis lost: Retry (16/20) in 1.00 second.
+2024-10-07 07:05:44,515 - ERROR - Connection to Redis lost: Retry (17/20) in 1.00 second.
+2024-10-07 07:05:45,724 - ERROR - Connection to Redis lost: Retry (17/20) in 1.00 second.
+2024-10-07 07:05:45,834 - ERROR - Connection to Redis lost: Retry (17/20) in 1.00 second.
+2024-10-07 07:05:46,070 - ERROR - Connection to Redis lost: Retry (17/20) in 1.00 second.
+2024-10-07 07:05:46,100 - ERROR - Connection to Redis lost: Retry (17/20) in 1.00 second.
+2024-10-07 07:05:46,306 - ERROR - Connection to Redis lost: Retry (17/20) in 1.00 second.
+2024-10-07 07:05:49,533 - ERROR - Connection to Redis lost: Retry (18/20) in 1.00 second.
+2024-10-07 07:05:50,744 - ERROR - Connection to Redis lost: Retry (18/20) in 1.00 second.
+2024-10-07 07:05:50,864 - ERROR - Connection to Redis lost: Retry (18/20) in 1.00 second.
+2024-10-07 07:05:51,077 - ERROR - Connection to Redis lost: Retry (18/20) in 1.00 second.
+2024-10-07 07:05:51,114 - ERROR - Connection to Redis lost: Retry (18/20) in 1.00 second.
+2024-10-07 07:05:51,322 - ERROR - Connection to Redis lost: Retry (18/20) in 1.00 second.
+2024-10-07 07:05:54,540 - ERROR - Connection to Redis lost: Retry (19/20) in 1.00 second.
+2024-10-07 07:05:55,772 - ERROR - Connection to Redis lost: Retry (19/20) in 1.00 second.
+2024-10-07 07:05:55,870 - ERROR - Connection to Redis lost: Retry (19/20) in 1.00 second.
+2024-10-07 07:05:56,097 - ERROR - Connection to Redis lost: Retry (19/20) in 1.00 second.
+2024-10-07 07:05:56,146 - ERROR - Connection to Redis lost: Retry (19/20) in 1.00 second.
+2024-10-07 07:05:56,363 - ERROR - Connection to Redis lost: Retry (19/20) in 1.00 second.
+2024-10-07 07:05:59,549 - CRITICAL - 
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+2024-10-07 07:05:59,571 - INFO - 127.0.0.1 - - [07/Oct/2024 07:05:59] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+2024-10-07 07:06:00,783 - CRITICAL - 
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+2024-10-07 07:06:00,802 - INFO - 127.0.0.1 - - [07/Oct/2024 07:06:00] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+2024-10-07 07:06:00,893 - CRITICAL - 
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+2024-10-07 07:06:00,911 - INFO - 127.0.0.1 - - [07/Oct/2024 07:06:00] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+2024-10-07 07:06:01,115 - CRITICAL - 
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+2024-10-07 07:06:01,133 - INFO - 127.0.0.1 - - [07/Oct/2024 07:06:01] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+2024-10-07 07:06:01,159 - CRITICAL - 
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+2024-10-07 07:06:01,177 - INFO - 127.0.0.1 - - [07/Oct/2024 07:06:01] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+2024-10-07 07:06:01,389 - CRITICAL - 
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+2024-10-07 07:06:01,406 - INFO - 127.0.0.1 - - [07/Oct/2024 07:06:01] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+2024-10-07 07:07:22,748 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:07:22,749 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:07:22,752 - INFO -  * Restarting with stat
+2024-10-07 07:07:23,692 - WARNING -  * Debugger is active!
+2024-10-07 07:07:23,700 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:07:25,477 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:25] "GET / HTTP/1.1" 200 -
+2024-10-07 07:07:25,498 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:25] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:07:30,631 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:30] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:07:30,631 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:30] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:07:30,667 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:30] "[35m[1mGET /static/uploads/advanced_interpolated_psychedelic_animation.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:07:30,671 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:30] "[35m[1mGET /static/uploads/advanced_interpolated_psychedelic_animation.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:07:30,676 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:30] "[35m[1mGET /static/uploads/advanced_interpolated_psychedelic_animation.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:07:30,679 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:30] "[35m[1mGET /static/uploads/advanced_interpolated_psychedelic_animation.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:07:30,683 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:30] "[35m[1mGET /static/uploads/advanced_interpolated_psychedelic_animation.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:07:30,686 - INFO - 127.0.0.1 - - [07/Oct/2024 07:07:30] "[35m[1mGET /static/uploads/advanced_interpolated_psychedelic_animation.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:07:37,583 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 07:07:45,747 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:07:46,192 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:07:49,770 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:07:50,202 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:07:54,785 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:07:55,209 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:07:59,811 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:08:00,226 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:08:04,814 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:08:05,241 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:08:09,832 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:08:10,270 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:08:14,860 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:08:15,277 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:08:19,877 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:08:20,295 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:08:24,884 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:08:25,347 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:08:29,899 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:08:30,375 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:08:34,915 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:08:35,390 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:10:37,380 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:10:37,380 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:10:37,383 - INFO -  * Restarting with stat
+2024-10-07 07:10:38,314 - WARNING -  * Debugger is active!
+2024-10-07 07:10:38,322 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:10:39,990 - INFO - 127.0.0.1 - - [07/Oct/2024 07:10:39] "GET / HTTP/1.1" 200 -
+2024-10-07 07:10:40,009 - INFO - 127.0.0.1 - - [07/Oct/2024 07:10:40] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:10:51,770 - INFO - 127.0.0.1 - - [07/Oct/2024 07:10:51] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:10:51,772 - INFO - 127.0.0.1 - - [07/Oct/2024 07:10:51] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:10:51,804 - INFO - 127.0.0.1 - - [07/Oct/2024 07:10:51] "GET /static/uploads/animated_geometric_shapes.gif HTTP/1.1" 200 -
+2024-10-07 07:10:57,553 - INFO - 127.0.0.1 - - [07/Oct/2024 07:10:57] "GET / HTTP/1.1" 200 -
+2024-10-07 07:10:57,567 - INFO - 127.0.0.1 - - [07/Oct/2024 07:10:57] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:12:32,180 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:12:32,181 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:12:32,183 - INFO -  * Restarting with stat
+2024-10-07 07:12:33,118 - WARNING -  * Debugger is active!
+2024-10-07 07:12:33,127 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:12:34,742 - INFO - 127.0.0.1 - - [07/Oct/2024 07:12:34] "GET / HTTP/1.1" 200 -
+2024-10-07 07:12:34,763 - INFO - 127.0.0.1 - - [07/Oct/2024 07:12:34] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:12:45,910 - INFO - 127.0.0.1 - - [07/Oct/2024 07:12:45] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:12:45,940 - INFO - 127.0.0.1 - - [07/Oct/2024 07:12:45] "GET /static/uploads/animated_image.gif HTTP/1.1" 200 -
+2024-10-07 07:12:53,953 - INFO - 127.0.0.1 - - [07/Oct/2024 07:12:53] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:12:53,962 - INFO - 127.0.0.1 - - [07/Oct/2024 07:12:53] "GET /static/uploads/cat_walking_animation.gif HTTP/1.1" 200 -
+2024-10-07 07:12:56,698 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 07:13:04,855 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:13:08,864 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:15:45,024 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:15:45,025 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:15:45,027 - INFO -  * Restarting with stat
+2024-10-07 07:15:45,976 - WARNING -  * Debugger is active!
+2024-10-07 07:15:45,985 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:15:50,467 - INFO - 127.0.0.1 - - [07/Oct/2024 07:15:50] "GET / HTTP/1.1" 200 -
+2024-10-07 07:15:50,489 - INFO - 127.0.0.1 - - [07/Oct/2024 07:15:50] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:16:47,645 - INFO - 127.0.0.1 - - [07/Oct/2024 07:16:47] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:16:47,683 - INFO - 127.0.0.1 - - [07/Oct/2024 07:16:47] "GET /static/uploads/black_hole_frame.png HTTP/1.1" 200 -
+2024-10-07 07:17:19,075 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:17:19,076 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:17:19,078 - INFO -  * Restarting with stat
+2024-10-07 07:17:19,980 - WARNING -  * Debugger is active!
+2024-10-07 07:17:19,987 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:17:22,852 - INFO - 127.0.0.1 - - [07/Oct/2024 07:17:22] "GET / HTTP/1.1" 200 -
+2024-10-07 07:17:22,886 - INFO - 127.0.0.1 - - [07/Oct/2024 07:17:22] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:19:40,130 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:19:40,130 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:19:40,132 - INFO -  * Restarting with stat
+2024-10-07 07:19:41,072 - WARNING -  * Debugger is active!
+2024-10-07 07:19:41,081 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:19:44,554 - INFO - 127.0.0.1 - - [07/Oct/2024 07:19:44] "GET / HTTP/1.1" 200 -
+2024-10-07 07:19:44,577 - INFO - 127.0.0.1 - - [07/Oct/2024 07:19:44] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:19:49,957 - INFO - 127.0.0.1 - - [07/Oct/2024 07:19:49] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:19:49,995 - INFO - 127.0.0.1 - - [07/Oct/2024 07:19:49] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:19:50,000 - INFO - 127.0.0.1 - - [07/Oct/2024 07:19:50] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:19:50,005 - INFO - 127.0.0.1 - - [07/Oct/2024 07:19:50] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:19:50,009 - INFO - 127.0.0.1 - - [07/Oct/2024 07:19:50] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:19:50,864 - INFO - 127.0.0.1 - - [07/Oct/2024 07:19:50] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:19:53,647 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 07:20:01,791 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:20:05,807 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:20:10,812 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:20:15,821 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:20:20,842 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:20:25,872 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:20:30,892 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:22:05,100 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:22:05,100 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:22:05,104 - INFO -  * Restarting with stat
+2024-10-07 07:22:06,012 - WARNING -  * Debugger is active!
+2024-10-07 07:22:06,021 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:22:09,140 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:09] "GET / HTTP/1.1" 200 -
+2024-10-07 07:22:09,162 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:09] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:22:14,223 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:22:14,258 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "GET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1" 200 -
+2024-10-07 07:22:14,261 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:22:14,266 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:22:14,280 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:22:14,296 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:22:14,299 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:22:14,304 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:22:14,309 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:22:14,312 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:14] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:22:18,373 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 07:22:26,551 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:22:30,585 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:22:35,600 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:22:40,628 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:22:41,636 - INFO - 127.0.0.1 - - [07/Oct/2024 07:22:41] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:22:45,634 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:22:50,650 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:22:55,677 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:23:00,702 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:23:05,729 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:23:10,734 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:23:19,629 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:23:19,629 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:23:19,632 - INFO -  * Restarting with stat
+2024-10-07 07:23:20,579 - WARNING -  * Debugger is active!
+2024-10-07 07:23:20,587 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:23:23,056 - INFO - 127.0.0.1 - - [07/Oct/2024 07:23:23] "GET / HTTP/1.1" 200 -
+2024-10-07 07:23:23,082 - INFO - 127.0.0.1 - - [07/Oct/2024 07:23:23] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:23:28,189 - INFO - 127.0.0.1 - - [07/Oct/2024 07:23:28] "POST /upload HTTP/1.1" 200 -
+2024-10-07 07:23:28,225 - INFO - 127.0.0.1 - - [07/Oct/2024 07:23:28] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:23:28,242 - INFO - 127.0.0.1 - - [07/Oct/2024 07:23:28] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:23:30,613 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 07:23:38,772 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:23:39,387 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:23:39,548 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:23:42,789 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:23:43,391 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:23:43,563 - ERROR - Connection to Redis lost: Retry (1/20) in 1.00 second.
+2024-10-07 07:23:47,804 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:23:48,410 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:23:48,581 - ERROR - Connection to Redis lost: Retry (2/20) in 1.00 second.
+2024-10-07 07:23:49,129 - INFO - 127.0.0.1 - - [07/Oct/2024 07:23:49] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:23:49,140 - INFO - 127.0.0.1 - - [07/Oct/2024 07:23:49] "[35m[1mGET /static/uploads/a_4d_tensor_being_computed_enevenly_that_results_in_a_black_hole_forming_as_the_information_inside_of_the_neural_network_became_to_dense_in_a_point_of_space_and_time.____-f1598f.mp4 HTTP/1.1[0m" 206 -
+2024-10-07 07:23:52,810 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:23:53,429 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:23:53,600 - ERROR - Connection to Redis lost: Retry (3/20) in 1.00 second.
+2024-10-07 07:23:57,824 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:23:58,434 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:23:58,628 - ERROR - Connection to Redis lost: Retry (4/20) in 1.00 second.
+2024-10-07 07:24:02,833 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:24:03,447 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:24:03,644 - ERROR - Connection to Redis lost: Retry (5/20) in 1.00 second.
+2024-10-07 07:24:07,865 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:24:08,475 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:24:08,662 - ERROR - Connection to Redis lost: Retry (6/20) in 1.00 second.
+2024-10-07 07:24:12,882 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:24:13,483 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:24:13,667 - ERROR - Connection to Redis lost: Retry (7/20) in 1.00 second.
+2024-10-07 07:24:17,909 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:24:18,500 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:24:18,696 - ERROR - Connection to Redis lost: Retry (8/20) in 1.00 second.
+2024-10-07 07:24:22,940 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:24:23,521 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:24:23,723 - ERROR - Connection to Redis lost: Retry (9/20) in 1.00 second.
+2024-10-07 07:24:27,961 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:24:28,549 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:24:28,741 - ERROR - Connection to Redis lost: Retry (10/20) in 1.00 second.
+2024-10-07 07:24:32,979 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:24:33,555 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:24:33,759 - ERROR - Connection to Redis lost: Retry (11/20) in 1.00 second.
+2024-10-07 07:24:37,999 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:24:38,573 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:24:38,778 - ERROR - Connection to Redis lost: Retry (12/20) in 1.00 second.
+2024-10-07 07:24:43,016 - ERROR - Connection to Redis lost: Retry (13/20) in 1.00 second.
+2024-10-07 07:24:43,600 - ERROR - Connection to Redis lost: Retry (13/20) in 1.00 second.
+2024-10-07 07:24:43,808 - ERROR - Connection to Redis lost: Retry (13/20) in 1.00 second.
+2024-10-07 07:24:48,043 - ERROR - Connection to Redis lost: Retry (14/20) in 1.00 second.
+2024-10-07 07:24:48,618 - ERROR - Connection to Redis lost: Retry (14/20) in 1.00 second.
+2024-10-07 07:24:48,824 - ERROR - Connection to Redis lost: Retry (14/20) in 1.00 second.
+2024-10-07 07:24:53,057 - ERROR - Connection to Redis lost: Retry (15/20) in 1.00 second.
+2024-10-07 07:24:53,684 - ERROR - Connection to Redis lost: Retry (15/20) in 1.00 second.
+2024-10-07 07:24:53,849 - ERROR - Connection to Redis lost: Retry (15/20) in 1.00 second.
+2024-10-07 07:24:58,085 - ERROR - Connection to Redis lost: Retry (16/20) in 1.00 second.
+2024-10-07 07:24:58,712 - ERROR - Connection to Redis lost: Retry (16/20) in 1.00 second.
+2024-10-07 07:24:58,877 - ERROR - Connection to Redis lost: Retry (16/20) in 1.00 second.
+2024-10-07 07:25:03,101 - ERROR - Connection to Redis lost: Retry (17/20) in 1.00 second.
+2024-10-07 07:25:03,728 - ERROR - Connection to Redis lost: Retry (17/20) in 1.00 second.
+2024-10-07 07:25:03,892 - ERROR - Connection to Redis lost: Retry (17/20) in 1.00 second.
+2024-10-07 07:25:08,131 - ERROR - Connection to Redis lost: Retry (18/20) in 1.00 second.
+2024-10-07 07:25:08,759 - ERROR - Connection to Redis lost: Retry (18/20) in 1.00 second.
+2024-10-07 07:25:08,919 - ERROR - Connection to Redis lost: Retry (18/20) in 1.00 second.
+2024-10-07 07:25:13,157 - ERROR - Connection to Redis lost: Retry (19/20) in 1.00 second.
+2024-10-07 07:25:13,780 - ERROR - Connection to Redis lost: Retry (19/20) in 1.00 second.
+2024-10-07 07:25:13,948 - ERROR - Connection to Redis lost: Retry (19/20) in 1.00 second.
+2024-10-07 07:25:18,165 - CRITICAL - 
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+2024-10-07 07:25:18,188 - INFO - 127.0.0.1 - - [07/Oct/2024 07:25:18] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+2024-10-07 07:25:18,787 - CRITICAL - 
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+2024-10-07 07:25:18,805 - INFO - 127.0.0.1 - - [07/Oct/2024 07:25:18] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+2024-10-07 07:25:18,953 - CRITICAL - 
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+2024-10-07 07:25:18,972 - INFO - 127.0.0.1 - - [07/Oct/2024 07:25:18] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+2024-10-07 07:29:22,895 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:29:22,896 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:29:22,899 - INFO -  * Restarting with stat
+2024-10-07 07:29:23,789 - WARNING -  * Debugger is active!
+2024-10-07 07:29:23,797 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:29:26,297 - INFO - 127.0.0.1 - - [07/Oct/2024 07:29:26] "GET / HTTP/1.1" 200 -
+2024-10-07 07:29:26,322 - INFO - 127.0.0.1 - - [07/Oct/2024 07:29:26] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:29:26,324 - INFO - 127.0.0.1 - - [07/Oct/2024 07:29:26] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-10-07 07:29:28,519 - INFO - 127.0.0.1 - - [07/Oct/2024 07:29:28] "GET / HTTP/1.1" 200 -
+2024-10-07 07:29:28,537 - INFO - 127.0.0.1 - - [07/Oct/2024 07:29:28] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:29:28,540 - INFO - 127.0.0.1 - - [07/Oct/2024 07:29:28] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-10-07 07:29:57,353 - INFO - 127.0.0.1 - - [07/Oct/2024 07:29:57] "GET / HTTP/1.1" 200 -
+2024-10-07 07:29:57,367 - INFO - 127.0.0.1 - - [07/Oct/2024 07:29:57] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:29:57,371 - INFO - 127.0.0.1 - - [07/Oct/2024 07:29:57] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-10-07 07:30:26,017 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:30:26,018 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:30:26,020 - INFO -  * Restarting with stat
+2024-10-07 07:30:26,998 - WARNING -  * Debugger is active!
+2024-10-07 07:30:27,006 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:30:28,073 - INFO - 127.0.0.1 - - [07/Oct/2024 07:30:28] "GET / HTTP/1.1" 200 -
+2024-10-07 07:30:28,109 - INFO - 127.0.0.1 - - [07/Oct/2024 07:30:28] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:30:28,113 - INFO - 127.0.0.1 - - [07/Oct/2024 07:30:28] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-10-07 07:30:28,785 - INFO - 127.0.0.1 - - [07/Oct/2024 07:30:28] "GET / HTTP/1.1" 200 -
+2024-10-07 07:30:28,804 - INFO - 127.0.0.1 - - [07/Oct/2024 07:30:28] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2024-10-07 07:30:28,806 - INFO - 127.0.0.1 - - [07/Oct/2024 07:30:28] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2024-10-07 07:32:43,079 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:32:43,080 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:32:43,083 - INFO -  * Restarting with stat
+2024-10-07 07:32:43,984 - WARNING -  * Debugger is active!
+2024-10-07 07:32:43,992 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:32:47,402 - INFO - 127.0.0.1 - - [07/Oct/2024 07:32:47] "GET / HTTP/1.1" 200 -
+2024-10-07 07:32:47,463 - INFO - 127.0.0.1 - - [07/Oct/2024 07:32:47] "GET /static/styles.css HTTP/1.1" 200 -
+2024-10-07 07:32:47,464 - INFO - 127.0.0.1 - - [07/Oct/2024 07:32:47] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 07:32:58,776 - INFO - 127.0.0.1 - - [07/Oct/2024 07:32:58] "GET / HTTP/1.1" 200 -
+2024-10-07 07:32:58,794 - INFO - 127.0.0.1 - - [07/Oct/2024 07:32:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:32:58,797 - INFO - 127.0.0.1 - - [07/Oct/2024 07:32:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:33:30,074 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:30] "GET / HTTP/1.1" 200 -
+2024-10-07 07:33:30,095 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:33:30,098 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:30] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:33:30,699 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:30] "GET / HTTP/1.1" 200 -
+2024-10-07 07:33:30,716 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:33:30,719 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:30] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:33:30,873 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:30] "GET / HTTP/1.1" 200 -
+2024-10-07 07:33:30,895 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:33:30,898 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:30] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:33:31,105 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:31] "GET / HTTP/1.1" 200 -
+2024-10-07 07:33:31,121 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:33:31,124 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:33:31,271 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:31] "GET / HTTP/1.1" 200 -
+2024-10-07 07:33:31,288 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:33:31,290 - INFO - 127.0.0.1 - - [07/Oct/2024 07:33:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:34:41,324 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:34:41,324 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:34:41,327 - INFO -  * Restarting with stat
+2024-10-07 07:34:42,248 - WARNING -  * Debugger is active!
+2024-10-07 07:34:42,256 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:34:44,288 - INFO - 127.0.0.1 - - [07/Oct/2024 07:34:44] "GET / HTTP/1.1" 200 -
+2024-10-07 07:34:44,350 - INFO - 127.0.0.1 - - [07/Oct/2024 07:34:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:34:44,351 - INFO - 127.0.0.1 - - [07/Oct/2024 07:34:44] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 07:34:58,599 - INFO - 127.0.0.1 - - [07/Oct/2024 07:34:58] "GET / HTTP/1.1" 200 -
+2024-10-07 07:34:58,618 - INFO - 127.0.0.1 - - [07/Oct/2024 07:34:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:34:58,620 - INFO - 127.0.0.1 - - [07/Oct/2024 07:34:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:37:46,761 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:37:46,762 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:37:46,764 - INFO -  * Restarting with stat
+2024-10-07 07:37:47,684 - WARNING -  * Debugger is active!
+2024-10-07 07:37:47,692 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:37:48,660 - INFO - 127.0.0.1 - - [07/Oct/2024 07:37:48] "GET / HTTP/1.1" 200 -
+2024-10-07 07:37:48,719 - INFO - 127.0.0.1 - - [07/Oct/2024 07:37:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:37:48,720 - INFO - 127.0.0.1 - - [07/Oct/2024 07:37:48] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 07:40:08,137 - INFO - 127.0.0.1 - - [07/Oct/2024 07:40:08] "GET / HTTP/1.1" 200 -
+2024-10-07 07:40:08,175 - INFO - 127.0.0.1 - - [07/Oct/2024 07:40:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:40:08,178 - INFO - 127.0.0.1 - - [07/Oct/2024 07:40:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:46:15,670 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:46:15,670 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:46:15,673 - INFO -  * Restarting with stat
+2024-10-07 07:46:16,628 - WARNING -  * Debugger is active!
+2024-10-07 07:46:16,636 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:46:17,770 - INFO - 127.0.0.1 - - [07/Oct/2024 07:46:17] "GET / HTTP/1.1" 200 -
+2024-10-07 07:46:17,836 - INFO - 127.0.0.1 - - [07/Oct/2024 07:46:17] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 07:46:17,837 - INFO - 127.0.0.1 - - [07/Oct/2024 07:46:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:48:08,889 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:48:08,889 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:48:08,890 - INFO -  * Restarting with stat
+2024-10-07 07:48:09,205 - WARNING -  * Debugger is active!
+2024-10-07 07:48:09,211 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:48:12,106 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:48:12,106 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:48:12,109 - INFO -  * Restarting with stat
+2024-10-07 07:48:13,009 - WARNING -  * Debugger is active!
+2024-10-07 07:48:13,018 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:48:15,342 - INFO - 127.0.0.1 - - [07/Oct/2024 07:48:15] "GET / HTTP/1.1" 200 -
+2024-10-07 07:48:15,406 - INFO - 127.0.0.1 - - [07/Oct/2024 07:48:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:48:15,406 - INFO - 127.0.0.1 - - [07/Oct/2024 07:48:15] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 07:49:49,519 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:49:49,520 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:49:49,522 - INFO -  * Restarting with stat
+2024-10-07 07:49:50,484 - WARNING -  * Debugger is active!
+2024-10-07 07:49:50,492 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:49:51,584 - INFO - 127.0.0.1 - - [07/Oct/2024 07:49:51] "GET / HTTP/1.1" 200 -
+2024-10-07 07:49:51,643 - INFO - 127.0.0.1 - - [07/Oct/2024 07:49:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:49:51,645 - INFO - 127.0.0.1 - - [07/Oct/2024 07:49:51] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 07:50:24,097 - INFO - 127.0.0.1 - - [07/Oct/2024 07:50:24] "GET / HTTP/1.1" 200 -
+2024-10-07 07:50:24,119 - INFO - 127.0.0.1 - - [07/Oct/2024 07:50:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:50:24,123 - INFO - 127.0.0.1 - - [07/Oct/2024 07:50:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:52:50,136 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:52:50,137 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:52:50,139 - INFO -  * Restarting with stat
+2024-10-07 07:52:51,074 - WARNING -  * Debugger is active!
+2024-10-07 07:52:51,083 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:52:52,445 - INFO - 127.0.0.1 - - [07/Oct/2024 07:52:52] "GET / HTTP/1.1" 200 -
+2024-10-07 07:52:52,512 - INFO - 127.0.0.1 - - [07/Oct/2024 07:52:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:52:52,512 - INFO - 127.0.0.1 - - [07/Oct/2024 07:52:52] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 07:53:37,288 - INFO - 127.0.0.1 - - [07/Oct/2024 07:53:37] "GET / HTTP/1.1" 200 -
+2024-10-07 07:53:37,311 - INFO - 127.0.0.1 - - [07/Oct/2024 07:53:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:53:37,314 - INFO - 127.0.0.1 - - [07/Oct/2024 07:53:37] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:55:27,269 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:55:27,269 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:55:27,272 - INFO -  * Restarting with stat
+2024-10-07 07:55:28,133 - WARNING -  * Debugger is active!
+2024-10-07 07:55:28,140 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:55:31,142 - INFO - 127.0.0.1 - - [07/Oct/2024 07:55:31] "GET / HTTP/1.1" 200 -
+2024-10-07 07:55:31,210 - INFO - 127.0.0.1 - - [07/Oct/2024 07:55:31] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 07:55:31,211 - INFO - 127.0.0.1 - - [07/Oct/2024 07:55:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:57:13,869 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:57:13,870 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:57:13,872 - INFO -  * Restarting with stat
+2024-10-07 07:57:14,788 - WARNING -  * Debugger is active!
+2024-10-07 07:57:14,796 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:57:16,299 - INFO - 127.0.0.1 - - [07/Oct/2024 07:57:16] "GET / HTTP/1.1" 200 -
+2024-10-07 07:57:16,367 - INFO - 127.0.0.1 - - [07/Oct/2024 07:57:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:57:16,368 - INFO - 127.0.0.1 - - [07/Oct/2024 07:57:16] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 07:57:32,167 - DEBUG - 
+def process_media_task(self, input_path, output_path, action, params):
+    return 1
+
+2024-10-07 07:57:40,342 - ERROR - Connection to Redis lost: Retry (0/20) now.
+2024-10-07 07:59:19,487 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 07:59:19,487 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 07:59:19,490 - INFO -  * Restarting with stat
+2024-10-07 07:59:20,460 - WARNING -  * Debugger is active!
+2024-10-07 07:59:20,468 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 07:59:21,198 - INFO - 127.0.0.1 - - [07/Oct/2024 07:59:21] "GET / HTTP/1.1" 200 -
+2024-10-07 07:59:21,268 - INFO - 127.0.0.1 - - [07/Oct/2024 07:59:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 07:59:21,269 - INFO - 127.0.0.1 - - [07/Oct/2024 07:59:21] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 08:01:54,073 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:01:54,074 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:01:54,079 - INFO -  * Restarting with stat
+2024-10-07 08:01:55,203 - WARNING -  * Debugger is active!
+2024-10-07 08:01:55,211 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:01:55,271 - INFO - 127.0.0.1 - - [07/Oct/2024 08:01:55] "GET / HTTP/1.1" 200 -
+2024-10-07 08:01:55,353 - INFO - 127.0.0.1 - - [07/Oct/2024 08:01:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:01:55,360 - INFO - 127.0.0.1 - - [07/Oct/2024 08:01:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 08:03:23,707 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:03:23,707 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:03:23,710 - INFO -  * Restarting with stat
+2024-10-07 08:03:24,755 - WARNING -  * Debugger is active!
+2024-10-07 08:03:24,767 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:03:25,303 - INFO - 127.0.0.1 - - [07/Oct/2024 08:03:25] "GET / HTTP/1.1" 200 -
+2024-10-07 08:03:25,364 - INFO - 127.0.0.1 - - [07/Oct/2024 08:03:25] "GET /static/styles.css HTTP/1.1" 200 -
+2024-10-07 08:03:25,365 - INFO - 127.0.0.1 - - [07/Oct/2024 08:03:25] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 08:05:43,060 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:05:43,061 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:05:43,064 - INFO -  * Restarting with stat
+2024-10-07 08:05:44,270 - WARNING -  * Debugger is active!
+2024-10-07 08:05:44,282 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:05:46,161 - INFO - 127.0.0.1 - - [07/Oct/2024 08:05:46] "GET / HTTP/1.1" 200 -
+2024-10-07 08:05:46,235 - INFO - 127.0.0.1 - - [07/Oct/2024 08:05:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:05:46,236 - INFO - 127.0.0.1 - - [07/Oct/2024 08:05:46] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 08:07:34,308 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:07:34,308 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:07:34,311 - INFO -  * Restarting with stat
+2024-10-07 08:07:35,247 - WARNING -  * Debugger is active!
+2024-10-07 08:07:35,256 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:07:36,657 - INFO - 127.0.0.1 - - [07/Oct/2024 08:07:36] "GET / HTTP/1.1" 200 -
+2024-10-07 08:07:36,719 - INFO - 127.0.0.1 - - [07/Oct/2024 08:07:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:07:36,721 - INFO - 127.0.0.1 - - [07/Oct/2024 08:07:36] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 08:10:05,480 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:10:05,481 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:10:05,484 - INFO -  * Restarting with stat
+2024-10-07 08:10:06,369 - WARNING -  * Debugger is active!
+2024-10-07 08:10:06,378 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:10:08,577 - INFO - 127.0.0.1 - - [07/Oct/2024 08:10:08] "GET / HTTP/1.1" 200 -
+2024-10-07 08:10:08,643 - INFO - 127.0.0.1 - - [07/Oct/2024 08:10:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 08:10:08,644 - INFO - 127.0.0.1 - - [07/Oct/2024 08:10:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:14:21,557 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:14:21,557 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:14:21,560 - INFO -  * Restarting with stat
+2024-10-07 08:14:22,517 - WARNING -  * Debugger is active!
+2024-10-07 08:14:22,526 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:14:23,332 - INFO - 127.0.0.1 - - [07/Oct/2024 08:14:23] "GET / HTTP/1.1" 200 -
+2024-10-07 08:14:23,389 - INFO - 127.0.0.1 - - [07/Oct/2024 08:14:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:14:23,391 - INFO - 127.0.0.1 - - [07/Oct/2024 08:14:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 08:14:37,074 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:14:37,074 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:14:37,076 - INFO -  * Restarting with stat
+2024-10-07 08:14:40,395 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:14:40,396 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:14:40,398 - INFO -  * Restarting with stat
+2024-10-07 08:14:41,298 - WARNING -  * Debugger is active!
+2024-10-07 08:14:41,306 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:14:43,033 - INFO - 127.0.0.1 - - [07/Oct/2024 08:14:43] "GET / HTTP/1.1" 200 -
+2024-10-07 08:14:43,090 - INFO - 127.0.0.1 - - [07/Oct/2024 08:14:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:14:43,092 - INFO - 127.0.0.1 - - [07/Oct/2024 08:14:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 08:15:56,811 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:15:56,812 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:15:56,814 - INFO -  * Restarting with stat
+2024-10-07 08:15:57,747 - WARNING -  * Debugger is active!
+2024-10-07 08:15:57,755 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:15:59,240 - INFO - 127.0.0.1 - - [07/Oct/2024 08:15:59] "GET / HTTP/1.1" 200 -
+2024-10-07 08:15:59,303 - INFO - 127.0.0.1 - - [07/Oct/2024 08:15:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:15:59,304 - INFO - 127.0.0.1 - - [07/Oct/2024 08:15:59] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 08:19:48,250 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:19:48,251 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:19:48,254 - INFO -  * Restarting with stat
+2024-10-07 08:19:49,180 - WARNING -  * Debugger is active!
+2024-10-07 08:19:49,189 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:19:51,659 - INFO - 127.0.0.1 - - [07/Oct/2024 08:19:51] "GET / HTTP/1.1" 200 -
+2024-10-07 08:19:51,723 - INFO - 127.0.0.1 - - [07/Oct/2024 08:19:51] "GET /static/styles.css HTTP/1.1" 200 -
+2024-10-07 08:19:51,724 - INFO - 127.0.0.1 - - [07/Oct/2024 08:19:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 08:21:13,433 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:21:13,434 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:21:13,436 - INFO -  * Restarting with stat
+2024-10-07 08:21:14,361 - WARNING -  * Debugger is active!
+2024-10-07 08:21:14,369 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:21:15,173 - INFO - 127.0.0.1 - - [07/Oct/2024 08:21:15] "GET / HTTP/1.1" 200 -
+2024-10-07 08:21:15,232 - INFO - 127.0.0.1 - - [07/Oct/2024 08:21:15] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-10-07 08:21:15,233 - INFO - 127.0.0.1 - - [07/Oct/2024 08:21:15] "GET /static/styles.css HTTP/1.1" 200 -
+2024-10-07 08:24:33,954 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:24:33,954 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:24:33,957 - INFO -  * Restarting with stat
+2024-10-07 08:24:34,915 - WARNING -  * Debugger is active!
+2024-10-07 08:24:34,926 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:24:35,572 - INFO - 127.0.0.1 - - [07/Oct/2024 08:24:35] "GET / HTTP/1.1" 200 -
+2024-10-07 08:24:35,618 - INFO - 127.0.0.1 - - [07/Oct/2024 08:24:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:25:47,605 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:25:47,606 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:25:47,609 - INFO -  * Restarting with stat
+2024-10-07 08:25:48,648 - WARNING -  * Debugger is active!
+2024-10-07 08:25:48,657 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:25:49,903 - INFO - 127.0.0.1 - - [07/Oct/2024 08:25:49] "GET / HTTP/1.1" 200 -
+2024-10-07 08:25:49,963 - INFO - 127.0.0.1 - - [07/Oct/2024 08:25:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:25:50,553 - INFO - 127.0.0.1 - - [07/Oct/2024 08:25:50] "GET / HTTP/1.1" 200 -
+2024-10-07 08:25:50,567 - INFO - 127.0.0.1 - - [07/Oct/2024 08:25:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:28:58,949 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:28:58,949 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:28:58,952 - INFO -  * Restarting with stat
+2024-10-07 08:28:59,897 - WARNING -  * Debugger is active!
+2024-10-07 08:28:59,905 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:29:00,577 - INFO - 127.0.0.1 - - [07/Oct/2024 08:29:00] "GET / HTTP/1.1" 200 -
+2024-10-07 08:29:00,646 - INFO - 127.0.0.1 - - [07/Oct/2024 08:29:00] "GET /static/styles.css HTTP/1.1" 200 -
+2024-10-07 08:29:00,647 - INFO - 127.0.0.1 - - [07/Oct/2024 08:29:00] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 08:31:42,544 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:31:42,544 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:31:42,547 - INFO -  * Restarting with stat
+2024-10-07 08:31:43,402 - WARNING -  * Debugger is active!
+2024-10-07 08:31:43,410 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:31:51,446 - INFO - 127.0.0.1 - - [07/Oct/2024 08:31:51] "GET / HTTP/1.1" 200 -
+2024-10-07 08:31:51,470 - INFO - 127.0.0.1 - - [07/Oct/2024 08:31:51] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+2024-10-07 08:31:51,472 - INFO - 127.0.0.1 - - [07/Oct/2024 08:31:51] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2024-10-07 08:35:07,276 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:35:07,277 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:35:07,279 - INFO -  * Restarting with stat
+2024-10-07 08:35:08,249 - WARNING -  * Debugger is active!
+2024-10-07 08:35:08,257 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:35:13,365 - INFO - 127.0.0.1 - - [07/Oct/2024 08:35:13] "GET / HTTP/1.1" 200 -
+2024-10-07 08:35:13,447 - INFO - 127.0.0.1 - - [07/Oct/2024 08:35:13] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 08:35:13,447 - INFO - 127.0.0.1 - - [07/Oct/2024 08:35:13] "GET /static/styles.css HTTP/1.1" 200 -
+2024-10-07 08:35:24,002 - INFO - 127.0.0.1 - - [07/Oct/2024 08:35:24] "POST /upload HTTP/1.1" 200 -
+2024-10-07 08:35:24,390 - INFO - 127.0.0.1 - - [07/Oct/2024 08:35:24] "POST /upload HTTP/1.1" 200 -
+2024-10-07 08:35:26,838 - INFO - 127.0.0.1 - - [07/Oct/2024 08:35:26] "POST /upload HTTP/1.1" 200 -
+2024-10-07 08:39:44,659 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:39:44,659 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:39:44,662 - INFO -  * Restarting with stat
+2024-10-07 08:39:45,619 - WARNING -  * Debugger is active!
+2024-10-07 08:39:45,626 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:39:46,729 - INFO - 127.0.0.1 - - [07/Oct/2024 08:39:46] "GET / HTTP/1.1" 200 -
+2024-10-07 08:39:46,797 - INFO - 127.0.0.1 - - [07/Oct/2024 08:39:46] "GET /static/script.js HTTP/1.1" 200 -
+2024-10-07 08:39:46,798 - INFO - 127.0.0.1 - - [07/Oct/2024 08:39:46] "GET /static/styles.css HTTP/1.1" 200 -
+2024-10-07 08:39:55,697 - INFO - 127.0.0.1 - - [07/Oct/2024 08:39:55] "POST /upload HTTP/1.1" 200 -
+2024-10-07 08:39:56,176 - INFO - 127.0.0.1 - - [07/Oct/2024 08:39:56] "POST /upload HTTP/1.1" 200 -
+2024-10-07 08:39:56,492 - INFO - 127.0.0.1 - - [07/Oct/2024 08:39:56] "POST /upload HTTP/1.1" 200 -
+2024-10-07 08:39:56,620 - INFO - 127.0.0.1 - - [07/Oct/2024 08:39:56] "POST /upload HTTP/1.1" 200 -
+2024-10-07 08:43:42,909 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:43:42,910 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:43:42,913 - INFO -  * Restarting with stat
+2024-10-07 08:43:43,854 - WARNING -  * Debugger is active!
+2024-10-07 08:43:43,862 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:43:45,110 - INFO - 127.0.0.1 - - [07/Oct/2024 08:43:45] "GET / HTTP/1.1" 200 -
+2024-10-07 08:43:45,162 - INFO - 127.0.0.1 - - [07/Oct/2024 08:43:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:46:12,681 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:46:12,682 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:46:12,684 - INFO -  * Restarting with stat
+2024-10-07 08:46:13,612 - WARNING -  * Debugger is active!
+2024-10-07 08:46:13,620 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:46:14,429 - INFO - 127.0.0.1 - - [07/Oct/2024 08:46:14] "GET / HTTP/1.1" 200 -
+2024-10-07 08:46:14,479 - INFO - 127.0.0.1 - - [07/Oct/2024 08:46:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:49:57,742 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:49:57,743 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:49:57,745 - INFO -  * Restarting with stat
+2024-10-07 08:49:58,704 - WARNING -  * Debugger is active!
+2024-10-07 08:49:58,713 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:49:59,480 - INFO - 127.0.0.1 - - [07/Oct/2024 08:49:59] "GET / HTTP/1.1" 200 -
+2024-10-07 08:49:59,528 - INFO - 127.0.0.1 - - [07/Oct/2024 08:49:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-10-07 08:52:49,730 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-07 08:52:49,731 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-07 08:52:49,733 - INFO -  * Restarting with stat
+2024-10-07 08:52:50,684 - WARNING -  * Debugger is active!
+2024-10-07 08:52:50,692 - INFO -  * Debugger PIN: 131-278-451
+2024-10-07 08:52:51,311 - INFO - 127.0.0.1 - - [07/Oct/2024 08:52:51] "GET / HTTP/1.1" 200 -
+2024-10-07 08:52:51,360 - INFO - 127.0.0.1 - - [07/Oct/2024 08:52:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
