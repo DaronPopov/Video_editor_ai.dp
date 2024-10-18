@@ -40,6 +40,17 @@ The frontend is built using HTML, Bulma CSS, and JavaScript. Key frontend featur
 3. **Asynchronous Processing**: The processing tasks are handled by Celery, allowing the frontend to remain responsive while heavy video processing occurs in the background.
 4. **Result Delivery**: Once the video is processed, the user is provided with a download link for the edited media.
 
+## Limitations
+
+- The current architecture is not designed to handle complex 3D scenes efficiently.
+- There is no integration of WebGPU for handling complex 3D scenes.
+
+## Planned Changes and Improvements
+
+- Integration of WebGPU for efficient handling of complex 3D scenes.
+- Enhancements to the backend to support complex 3D scene processing and real-time rendering.
+- Additional video editing features and improvements to the user interface.
+
 ## How to Run
 
 ### Prerequisites
