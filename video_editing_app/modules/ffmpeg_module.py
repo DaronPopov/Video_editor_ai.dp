@@ -33,3 +33,5 @@ class FFmpegProcessor:
         except subprocess.CalledProcessError as e:
             logging.error(f"FFmpeg command failed: {e}")
             raise
+
+# This module focuses on video processing using FFmpeg

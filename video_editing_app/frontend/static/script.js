@@ -1,28 +1,74 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Set up Three.js for 3D canvas
+    // Set up WebGPU for 3D canvas
     const container = document.getElementById('threeDContainer');
-    const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(75, container.clientWidth / container.clientHeight, 0.1, 1000);
-    const renderer = new THREE.WebGLRenderer();
-    renderer.setSize(container.clientWidth, container.clientHeight);
-    container.appendChild(renderer.domElement);
+    const adapter = await navigator.gpu.requestAdapter();
+    const device = await adapter.requestDevice();
+    const context = container.getContext('webgpu');
+    const format = navigator.gpu.getPreferredCanvasFormat();
+    context.configure({
+        device: device,
+        format: format,
+        alphaMode: 'opaque'
+    });
 
-    const controls = new THREE.OrbitControls(camera, renderer.domElement);
-    controls.enableZoom = true;
+    // Vertex shader
+    const vertexShaderCode = `
+        @vertex
+        fn main(@builtin(vertex_index) VertexIndex : u32) -> @builtin(position) vec4<f32> {
+            var pos = array<vec2<f32>, 3>(
+                vec2<f32>(0.0, 0.5),
+                vec2<f32>(-0.5, -0.5),
+                vec2<f32>(0.5, -0.5)
+            );
+            return vec4<f32>(pos[VertexIndex], 0.0, 1.0);
+        }
+    `;
 
-    // Example Cube for testing
-    const geometry = new THREE.BoxGeometry();
-    const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
-    const cube = new THREE.Mesh(geometry, material);
-    scene.add(cube);
-    camera.position.z = 5;
+    // Fragment shader
+    const fragmentShaderCode = `
+        @fragment
+        fn main() -> @location(0) vec4<f32> {
+            return vec4<f32>(1.0, 0.0, 0.0, 1.0);
+        }
+    `;
 
-    function animate() {
-        requestAnimationFrame(animate);
-        controls.update();
-        renderer.render(scene, camera);
-    }
-    animate();
+    const shaderModule = device.createShaderModule({
+        code: vertexShaderCode + fragmentShaderCode
+    });
+
+    const pipeline = device.createRenderPipeline({
+        vertex: {
+            module: shaderModule,
+            entryPoint: 'main'
+        },
+        fragment: {
+            module: shaderModule,
+            entryPoint: 'main',
+            targets: [{
+                format: format
+            }]
+        },
+        primitive: {
+            topology: 'triangle-list'
+        }
+    });
+
+    const commandEncoder = device.createCommandEncoder();
+    const textureView = context.getCurrentTexture().createView();
+    const renderPassDescriptor = {
+        colorAttachments: [{
+            view: textureView,
+            loadValue: { r: 0.0, g: 0.0, b: 0.0, a: 1.0 },
+            storeOp: 'store'
+        }]
+    };
+
+    const passEncoder = commandEncoder.beginRenderPass(renderPassDescriptor);
+    passEncoder.setPipeline(pipeline);
+    passEncoder.draw(3, 1, 0, 0);
+    passEncoder.endPass();
+
+    device.queue.submit([commandEncoder.finish()]);
 
     // Handle File Upload
     const showUploadFormButton = document.getElementById('showUploadForm');

@@ -66,3 +66,5 @@ def process_media_task(self, input_path, output_path, action, params):
         logging.error(f"Task {self.request.id} failed: {e}")
         self.update_state(state='FAILURE', meta={'error': str(e)})
         raise
+
+# This module uses Celery for asynchronous task management
